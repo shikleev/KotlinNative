@@ -1,0 +1,4 @@
+rootProject.name='Kotlin Native'
+include ':app'
+include 'shared_code'
+include 'shared_data'
